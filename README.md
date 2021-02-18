@@ -1,6 +1,6 @@
 # kaggle-titanic
 
-Status: Awaiting additions
+Status: Planned Additions
 
 The sinking of the RMS Titanic in 1912 is a culturally significant tragedy that resulted in the deaths of 1502 out of 2224 passengers. Today, it serves as an interesting case study for machine learning and data analysis as survival rates of passengers seem to correlate with certain passenger features.
 
